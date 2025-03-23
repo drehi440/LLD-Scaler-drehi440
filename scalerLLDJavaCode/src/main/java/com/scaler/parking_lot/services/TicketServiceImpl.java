@@ -2,8 +2,6 @@ package com.scaler.parking_lot.services;
 
 import com.scaler.parking_lot.exceptions.*;
 import com.scaler.parking_lot.models.*;
-import scaler.com.parking_lot.exceptions.*;
-import scaler.com.parking_lot.models.*;
 import com.scaler.parking_lot.respositories.GateRepository;
 import com.scaler.parking_lot.respositories.ParkingLotRepository;
 import com.scaler.parking_lot.respositories.TicketRepository;
