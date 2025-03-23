@@ -3,7 +3,6 @@ package com.scaler.parking_lot.strategies.assignment;
 
 
 import com.scaler.parking_lot.models.*;
-import scaler.com.parking_lot.models.*;
 
 import java.util.Optional;
 

@@ -2,7 +2,6 @@ package com.scaler.parking_lot.services;
 
 
 import com.scaler.parking_lot.exceptions.*;
-import scaler.com.parking_lot.exceptions.*;
 import com.scaler.parking_lot.models.Ticket;
 
 import java.util.List;
